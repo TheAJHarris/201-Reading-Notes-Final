@@ -1,5 +1,7 @@
 # 201-Reading-Notes-Final
 
+## Table of contents
+
 [read1](read1.md)
 [read2](read2.md)
 [read3](read3.md)
@@ -16,3 +18,4 @@
 [read14](read14.md)
 [read15](read15.md)
 
+### Please make sure to click the appropriate **link** for the reading you're looking for. 
